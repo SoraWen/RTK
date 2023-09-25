@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "name": "Wanda Hansen-Will",
+      "id": 2
+    },
+    {
+      "name": "Clinton Davis",
+      "id": 3
+    },
+    {
+      "name": "Angel Bergnaum",
+      "id": 12
+    },
+    {
+      "name": "Paula Pagac DVM",
+      "id": 16
+    },
+    {
+      "name": "Kent Bins",
+      "id": 17
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Fantastic Granite Salad",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Fresh Bacon",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "title": "Bespoke Plastic Tuna",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Sleek Bronze Fish",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Plastic Pants",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/105/abstract?lock=134437241094144",
+      "id": 8
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/105/abstract?lock=178020157489152",
+      "id": 10
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/105/abstract?lock=4229252872404992",
+      "id": 11
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/105/abstract?lock=8924899055763456",
+      "id": 12
+    }
+  ]
+}
